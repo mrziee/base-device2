@@ -41,7 +41,7 @@ global.pulsa = ['0857 7391 4826'] // UBAH NOMOR YG AKTIF!
 global.botname = 'Ziee BOT' // GNTI NAMA BOT LU!
 global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
 global.author = 'Mr Ziee' // GNTI NMA LU!
-global.fake = 'LIAACANS BOT VERIFIED' // GNTI NMA BOT LU BANH!
+global.fake = 'ZIEE BOT VERIFIED' // GNTI NMA BOT LU BANH!
 // FITUR TOPUP OTOMATIS 
 global.hargadmff = 1261
 global.hargadmml = 1700
@@ -61,13 +61,13 @@ global.mess = {
 success: '*[SUCCESS]* SUKSES PERMINTAAN ANDA TERKIRIM!',
 admin: 'Fitur Ini Khusus Untuk Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-prem: 'Fitur Ini Khusus Untuk Premium',
-owner: 'Fitur Ini Khusus Untuk Owner Bot',
+prem: 'Fitur Ini Khusus Untuk Member Premium',
+owner: 'Fitur Ini Khusus Untuk Owner Ku Tersayang',
 group: 'Fitur Ini Digunakan Hanya Untuk Group!',
 private: 'Fitur Ini Digunakan Hanya Untuk Private Chat!',
-bot: 'Fitur Ini Khusus Pengguna Nomor Bot',
+bot: 'Fitur Ini Khusus Aku Kak',
 wait: '*[WAIT]* SEDANG DIPROSES, HARAP TUNGGU SEBENTAR!',
-endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+endLimit: 'Limit Harian Kamu Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
 premium: "Unlimited",
